@@ -5,4 +5,5 @@ permalink: /about/
 ---
 
 Hi there,
-I am a Professional Software Architect living in HCM Vietnam.
+<p>
+I am a passionate Software Engineer living in HCM Vietnam.
