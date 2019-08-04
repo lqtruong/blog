@@ -157,8 +157,9 @@ img {
 }
 
 .masthead {
-  padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  height: 80px;
+  padding: 5px 0;
+  //border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
